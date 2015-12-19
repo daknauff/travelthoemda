@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Danny/Speelveld 1.unity
+- path: Assets/Scenes/Speelveld.unity
   isLoaded: 1
   isActive: 1
